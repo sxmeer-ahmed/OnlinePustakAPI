@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj": {}
+    "c:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj": {
+    "c:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj",
+        "projectUniqueName": "c:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj",
         "projectName": "OnlinePustak",
-        "projectPath": "C:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj",
+        "projectPath": "c:\\Users\\S.A.mee10\\OnlinePustak\\OnlinePustak.csproj",
         "packagesPath": "C:\\Users\\S.A.mee10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S.A.mee10\\OnlinePustak\\obj\\",
+        "outputPath": "c:\\Users\\S.A.mee10\\OnlinePustak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S.A.mee10\\AppData\\Roaming\\NuGet\\NuGet.Config"
